@@ -112,7 +112,7 @@ module.exports = __webpack_require__(/*! next/app */ "next/app")
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/mikksillaste/Downloads/next-ssr/node_modules/next/dist/pages/_app.js */"./node_modules/next/dist/pages/_app.js");
+module.exports = __webpack_require__(/*! C:\Users\Mikk.Sillaste\WebstormProjects\next-ssr\node_modules\next\dist\pages\_app.js */"./node_modules/next/dist/pages/_app.js");
 
 
 /***/ }),
