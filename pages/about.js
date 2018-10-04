@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from '../components/image';
 
 const About = () => {
     return (
@@ -8,6 +9,7 @@ const About = () => {
                 <button>Back</button>
             </Link>
             <p>I was a magician once</p>
+            <Image/>
         </div>
     )
 };
