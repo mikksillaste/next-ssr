@@ -8,6 +8,10 @@ const Index = () => (
             <button>About</button>
             {/*<a>About</a>*/}
         </Link>
+        <Link href='/robots'>
+            <button>Robots</button>
+            {/*<a>About</a>*/}
+        </Link>
         {/*Server called with every time when page opened*/}
         <br/><a href='/about'>About</a>
     </div>
